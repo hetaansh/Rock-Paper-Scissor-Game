@@ -1,0 +1,56 @@
+h1,h2 {
+    border: solid; 
+    border-color: black;
+    background-color: red; 
+    color: white; 
+    padding: 5px; 
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#result {
+    border: solid; 
+    background-color: goldenrod; 
+    color: black; 
+    padding: 5px; 
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 40px;
+}
+
+span {
+    border: solid; 
+    border-color: black;
+    background-color: red; 
+    color: white; 
+    padding: 10px; 
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: 20px;
+    
+}
+
+#userChoice, #computerChoice {
+    font-size: 30px;
+}
+
+button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    border: solid;
+    border-color: black;
+}
+
+body {
+    background-color: darkgreen;
+}
+
+div {
+    background-color: white;
+    margin-left: 25%;
+    margin-right: 25%;
+}
